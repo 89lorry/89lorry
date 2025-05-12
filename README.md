@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Keyan Miao</h1>
+<h1 align="center">Hi 👋, I'm Miao</h1>
 <h3 align="center">A graduate student majoring in software engineering at UC Irvine</h3>
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
-- 📫 How to reach me **keyan.miao@uci.edu**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
